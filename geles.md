@@ -3,3 +3,5 @@
 1. Nuostabus rytas
 
 2. Rytas sugadintas
+
+`Viso gero`
